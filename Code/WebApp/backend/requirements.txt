@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+python-multipart
+websockets
+opencv-python
+ultralytics
+xgboost
+pandas
+numpy
+supabase
+python-dotenv
+requests

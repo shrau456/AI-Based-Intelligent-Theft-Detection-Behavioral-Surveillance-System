@@ -1,0 +1,13 @@
+steps:
+1 - Get CCTV Camera details
+Camera IP, RTSP Port(554), Username, Password, Channel
+2 - Get CCTV RTSP Url 
+Generic form is like rtsp://username:password@camera_ip:554/stream_path
+3 - in code use video_path as this RTSP Url
+
+these steps for connecting actual cctv 
+
+# to connect mobile camera 
+1) install Ip Webcam Application
+2) make sure that both laptop and mobile are connected to same wifi
+3) IP Webcam will give one link, use that in the code to get the frames.
